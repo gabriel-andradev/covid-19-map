@@ -1,5 +1,11 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Covid mapping around the world
+Made in ReactJS, Carrefour Web Developer bootcamp exercise
+
+## Added by me other countries 
+* -> Global world, Portugal, Mexico, India and Russia
+
 ## Available Scripts
 
 In the project directory, you can run:
