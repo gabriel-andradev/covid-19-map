@@ -33,12 +33,26 @@ const globalStyle = createGlobalStyle`
 
   .pt-2 {
     padding-top: 24px;
+    align-items: center;
   }
 
   .cursor {
     cursor: pointer;
   }
 
+  .MuiTypography-colorPrimary {
+    margin: 5px;
+  }
+
+  .MuiSkeleton-text {
+    height: auto;
+    transform: none;
+    margin-top: 0;
+    border-radius: 4px;
+    margin-bottom: 0;
+    transform-origin: 0 60%;
+    font-size: 2.5rem;
+  }
 `
 
 export default globalStyle

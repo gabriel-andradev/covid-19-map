@@ -1,0 +1,34 @@
+{
+  "ignoreUnresolved": [],
+  "ignoreUnused": [
+    "@material-ui/lab",
+    "@testing-library/jest-dom",
+    "@testing-library/react",
+    "@testing-library/user-event",
+    "react-scripts",
+    "styled-components"
+  ],
+  "ignoreUnimported": [
+    "C:/Users/gabri/Documents/Dev/GIT/DIO/covid19-map-reactJS/src/App.js",
+    "C:/Users/gabri/Documents/Dev/GIT/DIO/covid19-map-reactJS/src/api.js",
+    "C:/Users/gabri/Documents/Dev/GIT/DIO/covid19-map-reactJS/src/commons/constants/countries.js",
+    "C:/Users/gabri/Documents/Dev/GIT/DIO/covid19-map-reactJS/src/commons/styles/global-style.js",
+    "C:/Users/gabri/Documents/Dev/GIT/DIO/covid19-map-reactJS/src/components/Button.jsx",
+    "C:/Users/gabri/Documents/Dev/GIT/DIO/covid19-map-reactJS/src/components/Card.jsx",
+    "C:/Users/gabri/Documents/Dev/GIT/DIO/covid19-map-reactJS/src/components/Grid.jsx",
+    "C:/Users/gabri/Documents/Dev/GIT/DIO/covid19-map-reactJS/src/components/MenuItem.jsx",
+    "C:/Users/gabri/Documents/Dev/GIT/DIO/covid19-map-reactJS/src/components/Select.jsx",
+    "C:/Users/gabri/Documents/Dev/GIT/DIO/covid19-map-reactJS/src/components/Skeleton.jsx",
+    "C:/Users/gabri/Documents/Dev/GIT/DIO/covid19-map-reactJS/src/components/Typography.jsx",
+    "C:/Users/gabri/Documents/Dev/GIT/DIO/covid19-map-reactJS/src/components/index.js",
+    "C:/Users/gabri/Documents/Dev/GIT/DIO/covid19-map-reactJS/src/containers/Main/components/Board.jsx",
+    "C:/Users/gabri/Documents/Dev/GIT/DIO/covid19-map-reactJS/src/containers/Main/components/Card.jsx",
+    "C:/Users/gabri/Documents/Dev/GIT/DIO/covid19-map-reactJS/src/containers/Main/components/Panel.jsx",
+    "C:/Users/gabri/Documents/Dev/GIT/DIO/covid19-map-reactJS/src/containers/Main/components/style.js",
+    "C:/Users/gabri/Documents/Dev/GIT/DIO/covid19-map-reactJS/src/containers/Main/index.jsx",
+    "C:/Users/gabri/Documents/Dev/GIT/DIO/covid19-map-reactJS/src/containers/Main/style.js",
+    "C:/Users/gabri/Documents/Dev/GIT/DIO/covid19-map-reactJS/src/index.js",
+    "C:/Users/gabri/Documents/Dev/GIT/DIO/covid19-map-reactJS/src/serviceWorker.js",
+    "C:/Users/gabri/Documents/Dev/GIT/DIO/covid19-map-reactJS/src/setupTests.js"
+  ]
+}
