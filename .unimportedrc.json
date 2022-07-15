@@ -5,6 +5,7 @@
     "@testing-library/jest-dom",
     "@testing-library/react",
     "@testing-library/user-event",
+    "i",
     "react-scripts",
     "styled-components"
   ],
@@ -29,6 +30,7 @@
     "C:/Users/gabri/Documents/Dev/GIT/DIO/covid19-map-reactJS/src/containers/Main/style.js",
     "C:/Users/gabri/Documents/Dev/GIT/DIO/covid19-map-reactJS/src/index.js",
     "C:/Users/gabri/Documents/Dev/GIT/DIO/covid19-map-reactJS/src/serviceWorker.js",
-    "C:/Users/gabri/Documents/Dev/GIT/DIO/covid19-map-reactJS/src/setupTests.js"
+    "C:/Users/gabri/Documents/Dev/GIT/DIO/covid19-map-reactJS/src/setupTests.js",
+    "src/setupTests.js"
   ]
 }
