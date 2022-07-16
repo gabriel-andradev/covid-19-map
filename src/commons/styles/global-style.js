@@ -51,7 +51,11 @@ const globalStyle = createGlobalStyle`
     border-radius: 4px;
     margin-bottom: 0;
     transform-origin: 0 60%;
-    font-size: 2.5rem;
+    font-size: 2.1rem;
+  }
+
+  .MuiSelect-select {
+    height: 30px;
   }
 `
 
