@@ -4,7 +4,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 Made in ReactJS, Carrefour Web Developer bootcamp exercise
 
 ## Added by me other countries 
-* -> Global world, Portugal, Mexico, India and Russia
+ -> Global world, Portugal, Mexico, India and Russia
 
 ## Available Scripts
 
